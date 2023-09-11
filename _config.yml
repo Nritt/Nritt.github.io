@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Nadia Ritt
+logo: "/images/IMG_0715.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Geospatial Technology masters degree student with an undergraduate degree in Anthropology. I strive for Success through continued academic and professional development to produce the highest quality work. 
+  I believe people are the most important and most valuable resource to the success of any project and I pride myself on working cohesively with those who provide a different perspective from my own.   
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/nadia-ritt-ba5140239">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
