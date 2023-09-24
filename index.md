@@ -5,7 +5,7 @@
 ### Kriging map 
 
 [Kriging map](/Kriging.jpg)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
