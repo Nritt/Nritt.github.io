@@ -4,7 +4,7 @@
 
 ### Kriging map 
 
-[Kriging map](/Kriging.jpg)
+[Kriging map](/pdf/Kriging.jpg)
 
 
 ---
