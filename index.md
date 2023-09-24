@@ -2,14 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Kriging map 
 
 [Kriging map](/Kriging.jpg)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Chicago Hot Spots](/pdf/Hot_Spot_Analysis.jpg)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
@@ -19,7 +18,9 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Chicago Hot Spots](/pdf/Hot_Spot_Analysis.jpg)
+
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
