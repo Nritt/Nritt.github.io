@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Kriging.jpg)
+[Kriging map](/Kriging.jpg)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/Hot_Spot_Analysis.jpg)
+[Chicago Hot Spots](/pdf/Hot_Spot_Analysis.jpg)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
