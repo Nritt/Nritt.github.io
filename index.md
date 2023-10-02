@@ -21,7 +21,7 @@
 - [Chicago Hot Spots](/pdf/Hot_Spot_Analysis.jpg)
 
 
-- [Project 2 Title](http://example.com/)
+- [![Hospitals in NM by County](images/NM.png)]([https://arcg.is/0KTWvTLinks to an external site.](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=cdc4fe19f17b44bda14224d830e7aba8))
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
